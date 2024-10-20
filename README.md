@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thinura jayathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinura jayathunga" height="30" width="40" /></a>
-<a href="https://fb.com/thinura jayathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thinura jayathunga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thinu-jaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinura jayathunga" height="30" width="40" /></a>
+<a href="https://web.facebook.com/thinura.jayathunga.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thinura jayathunga" height="30" width="40" /></a>
 <a href="https://instagram.com/thinura.jayathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinura.jayathunga" height="30" width="40" /></a>
 <a href="https://discord.gg/sezo1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sezo1123" height="30" width="40" /></a>
 </p>
