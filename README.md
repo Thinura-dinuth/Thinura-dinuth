@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F867505946959930032%2F&psig=AOvVaw16b2PjU7qxMNyThnGQ9tIC&ust=1729528941034000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjqi8SznYkDFQAAAAAdAAAAABAT)]
 <h1 align="center">Hi 👋, I'm Thinura Jayathunga</h1>
 <h3 align="center">A Computer Science Undergraduate</h3>
 
