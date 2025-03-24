@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Springboot & React**
 
-- 📫 How to reach me **thinujaya1@gmail.com**
+- 📫 How to reach me **thinurajayathunga.com**
 
 <h3>Connect with me</h3> 
 <p align="left">
