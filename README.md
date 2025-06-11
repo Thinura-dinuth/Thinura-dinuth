@@ -7,7 +7,7 @@
 
 <h3>About Me</h3> 
 
-- 🌱 I’m currently learning **Springboot & React**
+- 🌱 I’m currently learning **Springboot & Next.js**
 
 - 📫 How to reach me **thinurajayathunga.com**
 
